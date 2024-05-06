@@ -1,5 +1,5 @@
 
-<h1 align="center"><b> Hola, Soy Fear </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b> Hola, Soy Axel </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Me+encanta+Python;Gray+Hat+de+medio+tiempo;Desarrollador+Front-End;Proximo+Full+Stack;preparandom%C3%A9+para+el+OSCP" alt="Typing SVG" /></a>
