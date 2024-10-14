@@ -116,7 +116,7 @@
 
 <li>
 <a href="https://twitter.com/WhyNotFear" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  WhyNotFear-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/twitter:  R0ku-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
 </a>
 </li>
 
@@ -135,7 +135,7 @@
 
 <div align='center'>
 
-## <b> Fear On Top, Follow me on X and TikTok </b>
+## <b>R0ku On Top</b>
 
 </div>
 <br>
