@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is KIT and I'm a [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Programmer;Cybersecurity+engineer;Gamer)](https://git.io/typing-svg) from Seattle</h2>
+<h2 align="left">Hi 👋! My name is KIT and I'm a <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Programmer;Cybersecurity+engineer;Gamer" alt="Typing SVG" /></a> from Seattle</h2>
 
 ###
 
